@@ -12,3 +12,7 @@ navbar{
     color: orange !important;
 }
 
+.button{
+    padding-left: 10%;
+    text-center;
+}
